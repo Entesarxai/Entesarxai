@@ -1,5 +1,3 @@
-<img src="assets/GitHubBannerGrey.png" alt="My GitHub profile banne" width="100%" />
-
 ```python
     about_me = {
     "name": "Entesar"
