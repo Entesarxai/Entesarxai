@@ -1,3 +1,5 @@
+<img src="assets/GitHubBanner.png" alt="..." width="100%" />
+
 ```python
     about_me = {
     "name": "Entesar"
