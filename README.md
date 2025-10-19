@@ -1,4 +1,4 @@
-<img src="assets/GitHubBannerGreen.png" alt="My GitHub profile banne" width="100%" />
+<img src="assets/GitHubBannerGrey.png" alt="My GitHub profile banne" width="100%" />
 
 ```python
     about_me = {
@@ -14,7 +14,7 @@
 }
 ```
 
-Just a simple girl who enjoys solving problems and building things 🌷<br>
+I enjoys solving problems and building things 🌷<br>
 Currently focusing on Software Developmenet and AI.<br>
 ## Top Skills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
