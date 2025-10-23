@@ -7,7 +7,7 @@ const aboutMe = {
  hobbies: ["Drawing", "Swimming", "Chess"],
 
  profession: "Computer Science student",
- tech_stack: ["Python", "Javascript", "C", "SQL"]
+ tech_stack: ["Python", "JavaScript", "C", "SQL"]
 };
 ```
 
